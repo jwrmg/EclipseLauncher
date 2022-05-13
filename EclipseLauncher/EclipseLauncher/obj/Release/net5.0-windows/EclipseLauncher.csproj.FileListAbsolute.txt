@@ -20,3 +20,4 @@ D:\dev\git\Eclipse\EclipseLauncher\EclipseLauncher\EclipseLauncher\obj\Release\n
 D:\dev\git\Eclipse\EclipseLauncher\EclipseLauncher\EclipseLauncher\obj\Release\net5.0-windows\ref\EclipseLauncher.dll
 D:\dev\git\Eclipse\EclipseLauncher\EclipseLauncher\EclipseLauncher\obj\Release\net5.0-windows\EclipseLauncher.pdb
 D:\dev\git\Eclipse\EclipseLauncher\EclipseLauncher\EclipseLauncher\obj\Release\net5.0-windows\EclipseLauncher.genruntimeconfig.cache
+D:\dev\git\Eclipse\EclipseLauncher\EclipseLauncher\EclipseLauncher\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
